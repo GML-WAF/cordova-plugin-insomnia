@@ -1,0 +1,10 @@
+{
+  "name": "cordova-plugin-insomnia-electron",
+  "version": "4.3.0",
+  "description": "Electron main-process implementation of cordova-plugin-insomnia.",
+  "main": "index.js",
+  "license": "MIT",
+  "cordova": {
+    "serviceName": "Insomnia"
+  }
+}

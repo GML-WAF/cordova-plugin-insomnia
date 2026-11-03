@@ -22,6 +22,7 @@ Prevent the screen of the mobile device from falling asleep.
 * Works on Android, probably every version you'd care about.
 * Works on iOS, probably every version you'd care about.
 * Works on Windows and WP8.
+* Works on Electron (`cordova-electron` 3.0.0 or newer), using Electron's [`powerSaveBlocker`](https://www.electronjs.org/docs/latest/api/power-save-blocker) with `prevent-display-sleep`.
 
 ## 2. Installation
 

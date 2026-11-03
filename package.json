@@ -9,6 +9,7 @@
       "wp8",
       "windows",
       "android",
+      "electron",
       "firefoxos"
     ]
   },
@@ -22,6 +23,7 @@
     "cordova-wp8",
     "cordova-windows",
     "cordova-android",
+    "cordova-electron",
     "cordova-firefoxos"
   ],
   "engines": [
